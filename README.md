@@ -7,7 +7,7 @@
 [![ImageLayers](https://images.microbadger.com/badges/image/kylemanna/openvpn.svg)](https://microbadger.com/#/images/kylemanna/openvpn)
 -->
 
-Fork of the (kylemanna/docker-openvpn)[https://github.com/kylemanna/docker-openvpn].
+Fork of the [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn).
 
 OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
 
