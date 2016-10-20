@@ -7,9 +7,11 @@
 [![ImageLayers](https://images.microbadger.com/badges/image/kylemanna/openvpn.svg)](https://microbadger.com/#/images/kylemanna/openvpn)
 -->
 
+Fork of the (kylemanna/docker-openvpn)[https://github.com/kylemanna/docker-openvpn].
 
 OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
 
+<!--
 Extensively tested on [Digital Ocean $5/mo node](http://bit.ly/1C7cKr3) and has
 a corresponding [Digital Ocean Community Tutorial](http://bit.ly/1AGUZkq).
 
@@ -185,3 +187,5 @@ of a guarantee in the future.
 ## Having permissions issues with Selinux enabled?
 
 See [this](docs/selinux.md)
+
+-->
